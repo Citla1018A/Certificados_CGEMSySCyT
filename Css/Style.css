@@ -1,0 +1,11 @@
+.caja{
+    position: relative;
+    display: inline-block;
+}
+.texto1{
+    font-family: 'Montserrat', sans-serif;
+    top:10px;
+    left: 10%;
+    font-size: 22px;
+    color: black;
+  }
